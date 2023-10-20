@@ -1,8 +1,16 @@
 # Quickstart Guide
 
-> For the complete getting started [tutorial series](https://aiedge.medium.com/autogpt-forge-e3de53cc58ec) <- click here
+> For the complete getting started [tutorial series](https://aiedge.medium.com/autogpt-forge-e3de53cc58ec) OR visit the official [AutoGPT docs](https://docs.agpt.co/).
 
-Welcome to the Quickstart Guide! This guide will walk you through the process of setting up and running your own AutoGPT agent. Whether you're a seasoned AI developer or just starting out, this guide will provide you with the necessary steps to jumpstart your journey in the world of AI development with AutoGPT.
+Welcome to the Quickstart Guide! This guide will walk you through the process of setting up and running your own MeGPT agent as forked from AutoGPT. Whether you're a seasoned AI developer or just starting out, this guide will provide you with the necessary steps to jump-start your journey in the world of AI development with MeGPT.
+
+## YouTube Resources
+
+We have a series of YouTube videos that walk you through the process of setting up and running your own MeGPT agent. You can find the videos [here](https://www.youtube.com/playlist?list=PLZUwzY6sR6jY5z3Z3YXvQZ3XZ3YXvQZ3X). Additionally, here are some links to other AutoGPT videos:
+
+- [MASTER Auto-GPT in under 60 MINUTES | Ultimate Guide](https://www.youtube.com/watch?v=WGDbXNewHrA)
+- [AUTO-GPT Image Generation | Dall-E & Stable Diffusion](https://youtu.be/92sFHeGw8i8?list=PL4HikwTaYE0G30PPhAS9FFdZ1-pJoRXPf)
+- [AUTO-GPT Plugins (Email Plugin Setup & Demo)](https://youtu.be/urbI6K3kkT0?list=PL4HikwTaYE0G30PPhAS9FFdZ1-pJoRXPf)
 
 ## System Requirements
 
