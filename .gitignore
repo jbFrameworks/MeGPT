@@ -1,3 +1,6 @@
+## MeGPT ignores
+*.html
+
 ## Original ignores
 .github_access_token
 autogpt/keys.py
