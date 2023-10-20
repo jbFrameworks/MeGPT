@@ -1,14 +1,20 @@
-# 🌟 AutoGPT: the heart of the open-source agent ecosystem
+# 🌟 MeGPT: The personalized open-source AI agent
 
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt) [![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) [![Twitter Follow](https://img.shields.io/twitter/follow/auto_gpt?style=social)](https://twitter.com/Auto_GPT) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**AutoGPT** is your go-to toolkit for supercharging agents. With its modular and extensible framework, you're empowered to focus on:
+**MeGPT** is built atop **AutoGPT** professed as “the go-to toolkit for supercharging agents.” Using **AutoGPT**'s modular and extensible framework, **MeGPT** aims to focus on:
 
-- 🏗️ **Building** - Lay the foundation for something amazing.
-- 🧪 **Testing** - Fine-tune your agent to perfection.
-- 👀 **Viewing** - See your progress come to life.
+- 🏗️ **Building** - Laying the foundation for something amazing.
+- 🧪 **Testing** - Fine-tuning our agent to perfection.
+- 👀 **Viewing** - Seeing our progress come to life.
 
-Be part of the revolution! **AutoGPT** stays at the forefront of AI innovation, featuring the codebase for the reigning champion in the Open-Source ecosystem.
+> **DISCLAIMER**: As **MeGPT** is forked from the revolutionary **AutoGPT**, positioned at the bleeding edge of AI innovation, it is repo'd here "as-is" without any claim of functionality, reliability, or suitability for any specific purpose.
+>
+> Users should be aware that **MeGPT** may not possess the most recent updates or improvements that **AutoGPT** has undergone. All responsibilities related to the use, modification, or deployment of this fork remain strictly with the user.
+>
+> Any references to **AutoGPT** are purely for context, and in no way imply an endorsement or partnership with the original developers. This fork is a result of independent efforts and is neither affiliated with nor supported by the creators of **AutoGPT**.
+> 
+> It is advised that users employ due diligence and caution when using **MeGPT**, especially in applications with high-stakes outcomes. The user agrees to indemnify and hold harmless the maintainer of this fork for any and all claims arising from its use.
 
 ---
 
